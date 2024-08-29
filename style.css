@@ -102,7 +102,7 @@
 .twin {
   float: right;
 }
-.block-last4__first {
+.twin__first {
   width: 200px;
   height: 50px;
   background-color: #767676;
@@ -110,14 +110,14 @@
   margin-top: 25px;
 }
 
-.block-last4__second {
+.twin__second {
   width: 200px;
   height: 50px;
   background-color: #767676;
   margin-right: 20px;
   margin-top: 25px;
 }
-.block-last4__third {
+.twin__third {
   width: 200px;
   height: 125px;
   background-color: #767676;
@@ -134,20 +134,20 @@
 .twin-last {
   float: right;
 }
-.block-last5__first {
+.twin-last__first {
   width: 200px;
   height: 50px;
   background-color: #767676;
   margin-top: 25px;
 }
-.block-last5__second {
+.twin-last__second {
   width: 200px;
   height: 50px;
   background-color: #767676;
   margin-right: 20px;
   margin-top: 25px;
 }
-.block-last5__third {
+.third {
   width: 200px;
   height: 125px;
   background-color: #767676;
